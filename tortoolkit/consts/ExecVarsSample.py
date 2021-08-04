@@ -74,7 +74,7 @@ except:
         MAX_YTPLAYLIST_SIZE = 1000
 
         # Max size of the torrent allowed
-        MAX_TORRENT_SIZE = 150
+        MAX_TORRENT_SIZE = 200
 
         # Set this to your bot username if you want to add the username of your bot at the end of the commands like
         # /leech@TorToolkitBot so the value will be @TorToolkitBot
